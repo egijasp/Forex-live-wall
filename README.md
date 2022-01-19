@@ -2,7 +2,7 @@
 
 ---
 
-##Project DEMO
+## Project DEMO
 
 https://forex-live-wall.netlify.app/
 
@@ -13,13 +13,13 @@ https://forex-live-wall.netlify.app/
 - React TypeScript single page application
 - Responsive design
 
-<img src="./src/assets/images/responsive-mobile.PNG" alt="mobile">
-<img src="./src/assets/images/responsive2.PNG" alt="tablet">
-<img src="./src/assets/images/fullScreen.PNG" alt="desktop">
+<img src="./src/assets/images/responsive-mobile.PNG" alt="mobile" width="300px">
+<img src="./src/assets/images/responsive2.PNG" alt="tablet" width="400px">
+<img src="./src/assets/images/fullScreen.PNG" alt="desktop" width="500px">
 
 ---
 
-##Requirements
+## Requirements
 
 [HERE](./src/assets/Forex%20Live%20Wall.pdf)
 
