@@ -8,7 +8,7 @@ import { ForexData, CurrencyData } from '../helpers/types';
 import '../styles/ForexLiveWall.scss';
 import Loading from '../components/Loading/Loading';
 
-const APIKEY = 'XXX';
+const APIKEY = '0e198bef434de7bd1e451e44ec6544d0';
 const URL = `https://financialmodelingprep.com/api/v3/forex?apikey=${APIKEY}`;
 
 const ForexLiveWall = () => {
