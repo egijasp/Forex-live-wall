@@ -13,9 +13,9 @@ https://forex-live-wall.netlify.app/
 - React TypeScript single page application
 - Responsive design
 
-<img src="./src/assets/images/responsive-mobile.PNG" alt="mobile" width="300px">
-<img src="./src/assets/images/responsive2.PNG" alt="tablet" width="400px">
-<img src="./src/assets/images/fullScreen.PNG" alt="desktop" width="500px">
+<img src="./src/assets/images/responsive-mobile.PNG" alt="mobile" width="400px">
+<img src="./src/assets/images/responsive2.PNG" alt="tablet" width="600px">
+<img src="./src/assets/images/fullScreen.PNG" alt="desktop" width="800px">
 
 ---
 
