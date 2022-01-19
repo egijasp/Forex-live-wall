@@ -1,0 +1,16 @@
+.live-wall__header {
+  padding: 20px 30px;
+}
+
+.form {
+  display: grid;
+  grid-template-columns: minmax(200px, 300px) minmax(50px, 70px);
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.live-wall__error {
+  color: #D8000C;
+}
+
+
