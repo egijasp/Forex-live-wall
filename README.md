@@ -23,13 +23,6 @@
 
     npm install
 
-## Configure app
-
-Open `src/pages/ForexLiveWall.tsx` then edit it with your settings. You will need:
-
-- API_KEY;
-
-
 ## Running the project
 
     npm run start
