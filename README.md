@@ -2,6 +2,12 @@
 
 ---
 
+### Visit
+
+You can try it out: https://forex-live-wall.netlify.app/
+
+---
+
 ### Information about this project:
 
 - React TypeScript single page application
